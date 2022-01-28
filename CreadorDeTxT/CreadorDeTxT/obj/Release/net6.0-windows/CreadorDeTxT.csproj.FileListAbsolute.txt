@@ -1,0 +1,17 @@
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\bin\Release\net6.0-windows\CreadorDeTxT.exe
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\bin\Release\net6.0-windows\CreadorDeTxT.deps.json
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\bin\Release\net6.0-windows\CreadorDeTxT.runtimeconfig.json
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\bin\Release\net6.0-windows\CreadorDeTxT.dll
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\bin\Release\net6.0-windows\ref\CreadorDeTxT.dll
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\bin\Release\net6.0-windows\CreadorDeTxT.pdb
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.csproj.AssemblyReference.cache
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.Form1.resources
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.csproj.GenerateResource.cache
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.AssemblyInfoInputs.cache
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.AssemblyInfo.cs
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.csproj.CoreCompileInputs.cache
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.dll
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\ref\CreadorDeTxT.dll
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.pdb
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT\CreadorDeTxT\obj\Release\net6.0-windows\CreadorDeTxT.genruntimeconfig.cache

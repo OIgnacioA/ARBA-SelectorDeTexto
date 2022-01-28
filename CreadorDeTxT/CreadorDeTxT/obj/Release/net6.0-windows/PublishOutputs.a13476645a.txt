@@ -1,0 +1,5 @@
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT.exe
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT.dll
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT.deps.json
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT.runtimeconfig.json
+C:\Users\oscar.avendano\Desktop\GeneradorTXT\CreadorDeTxT.pdb
